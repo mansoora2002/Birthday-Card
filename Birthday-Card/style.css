@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+
+.heading{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: gray;
+    padding-right: px;
+
+}
+.heading1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: gray;
+    /* margin-top: 30px; */
+    /* padding-top: 80px; */
+    word-spacing: 10px;
+    
+}
+.card{
+    font-family: 'Alex Brush', cursive;
+    text-align: center;
+    font-size: 55px;
+    color:forestgreen;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.template{
+    border: 2px black ;
+    box-shadow: 0 0 15px rgba(153,198,142);
+    overflow: hidden;
+    border-radius: 15px;
+    /* border-left: 2px black;
+    border-right: 2px black; */
+    width:48%;
+
+    margin: 50px 100px 100px 350px;
+
+    padding: 100px 0;
+    transition: all 0.3s ease;
+    position: relative;
+}
+.template:hover{
+    box-shadow: 0 0 40px rgb(2, 118, 77);
+    transform: scale(1.04);
+}
+
+.bottom-part{
+    text-align: center;
+    display: inline-block;
+}
+p1{
+    color:gray;
+    margin-bottom: px;
+}
+h2{
+    color:darkslategray;
+    
+}
+h3{
+    color:forestgreen;
+}
+p2{
+
+}
+p2{
+    color: gray;
+    text-align: center;
+    /* padding-left: 710px; */
+    letter-spacing: 9px;
+    padding-top: 300px;
+}
+p3,p6{
+    text-align: center;
+    /* padding-left: 660px; */
+    color: black;
+   
+}
+p4{
+    text-align: center;
+    /* padding-left: 660px; */
+    color: gray;
+    
+}
+p5{
+  text-align: center;
+  /* padding-left: 660px; */
+  color: forestgreen;
+    
+}
+.flower-img{
+    height: 170px;
+    width: 170px;
+    margin-left: 150px;
+    /* margin-bottom: 1000px; */
+  
+    position:absolute;
+
+}
